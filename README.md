@@ -12,6 +12,4 @@ This project is a kaggle challenge taken from [here](https://www.kaggle.com/comp
 
 ### Results
 
-After some iterations, I managed to obtain a score of 0.8, where the score is computed as such :
-$ W_{acc} = \frac{ 1 }{ N } \sum\limits_{i=1}^{N} w_i I ( y_i = f_i )$
-where $w_i$ are the weights defined by the challenge. w_i
+After some iterations, I managed to obtain a score of ***0.8***, where the score is computed as a weighted accuracy based on the weights.
